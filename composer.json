@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/gestion-events",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\GestionEvents\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zadi gbagbo",
+            "email": "zadigbagboalexfranklin@gmail.com"
+        }
+    ],
+   "require": {
+        "doctrine/orm": "^2.8"
+    }
+}
